@@ -1,0 +1,9 @@
+﻿#EXTM3U8
+#EXTINF:-1,radiomayak.ru
+http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1,radiounost.ru
+http://icecast.vgtrk.cdnvideo.ru/unost_mp3_192kbps
+#EXTINF:-1,cultradio.ru
+http://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+#EXTINF:-1,radiovesti.ru
+http://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
