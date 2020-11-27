@@ -1,0 +1,42 @@
+#EXTM3U8
+#PLAYLIST:My Radio
+#EXTINF:-1,Imagine Classic Rock Channel
+http://broad1.imagineradio.ru:8000/light_stream256.mp3
+# http://imagineradio.ru/content/classic-rock
+# http://imagineradio.ru/sites/default/files/flyer_p232e3ee3e313re-fin_zvpress_0.jpg
+#EXTINF:-1,Imagine Jazz Channel
+http://broad1.imagineradio.ru:8000/jazz256.mp3
+# http://imagineradio.ru/jazz
+# http://imagineradio.ru/sites/default/files/flyer_pre-fin_zvpress.jpg
+#EXTINF:-1,Imagine Radio
+http://broad1.imagineradio.ru:8000/full_stream256.mp3
+# imagineradio.ru
+# http://imagineradio.ru/sites/default/files/rock.png
+#EXTINF:-1,New Holland Island Radio Station
+https://s3.radio.co/sb260bd9e3/listen
+# nhi.fm
+# https://images.radio.co/station_logos/sb260bd9e3.20190601022617.jpg
+#EXTINF:-1,Вести ФМ
+http://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+# radiovesti.ru
+# http://vgtrk.com/pictures/orig/71.png
+#EXTINF:-1,Культура
+http://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+# cultradio.ru
+# http://vgtrk.com/pictures/orig/73.png
+#EXTINF:-1,Маяк
+http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+# radiomayak.ru
+# http://vgtrk.com/pictures/orig/70.png
+#EXTINF:-1,Мелодия
+http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
+# radiomelody.ru
+# http://radiomelody.ru/logotype.png
+#EXTINF:-1,Тунгуска
+http://stream1.radiostyle.ru:8001/tunguska
+# radiotunguska.com
+# http://radiotunguska.com/images/pic003.jpg
+#EXTINF:-1,Юность
+http://icecast.vgtrk.cdnvideo.ru/unost_mp3_192kbps
+# radiounost.ru
+# http://www.radiounost.ru/images/logo-play.png
