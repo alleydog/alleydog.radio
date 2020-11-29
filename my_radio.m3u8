@@ -1,17 +1,17 @@
 #EXTM3U8
 #PLAYLIST:My Radio
-#EXTINF:-1,Imagine Classic Rock Channel
+#EXTINF:-1,Classic Rock Channel
 http://broad1.imagineradio.ru:8000/light_stream256.mp3
 # http://imagineradio.ru/content/classic-rock
 # http://imagineradio.ru/sites/default/files/flyer_p232e3ee3e313re-fin_zvpress_0.jpg
-#EXTINF:-1,Imagine Jazz Channel
-http://broad1.imagineradio.ru:8000/jazz256.mp3
-# http://imagineradio.ru/jazz
-# http://imagineradio.ru/sites/default/files/flyer_pre-fin_zvpress.jpg
 #EXTINF:-1,Imagine Radio
 http://broad1.imagineradio.ru:8000/full_stream256.mp3
 # imagineradio.ru
 # http://imagineradio.ru/sites/default/files/rock.png
+#EXTINF:-1,Jazz Channel
+http://broad1.imagineradio.ru:8000/jazz256.mp3
+# http://imagineradio.ru/jazz
+# http://imagineradio.ru/sites/default/files/flyer_pre-fin_zvpress.jpg
 #EXTINF:-1,New Holland Island Radio Station
 https://s3.radio.co/sb260bd9e3/listen
 # nhi.fm
