@@ -1,7 +1,0 @@
-#EXTM3U8
-#EXTINF:-1,imagineradio.ru
-http://broad1.imagineradio.ru:8000/full_stream256.mp3
-#EXTINF:-1,imagineradio.ru/content/classic-rock
-http://broad1.imagineradio.ru:8000/light_stream256.mp3
-#EXTINF:-1,imagineradio.ru/jazz
-http://broad1.imagineradio.ru:8000/jazz256.mp3
