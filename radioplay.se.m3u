@@ -1,23 +1,27 @@
 #EXTM3U
-#EXTINF:-1,radioplay.se/goldfm
+#EXTINF:-1,Gold FM
 https://goldfm.nu/goldfm_aacp
-#EXTINF:-1,radioplay.se/lugnaklassiker
+#EXTINF:-1,Lugna Klassiker
 https://live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_aacp
-#EXTINF:-1,radioplay.se/radioactive
-https://live-bauerse-fm.sharp-stream.com/radioactive_aac
-#EXTINF:-1,radioplay.se/nostalgi
+#EXTINF:-1,Mix Megapol
+https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp
+#EXTINF:-1,Mix Megapol Göteborg
+https://live-bauerse-fm.sharp-stream.com/mixmegapolgbg_instream_se_aacp
+#EXTINF:-1,Nostalgi
 https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp
-#EXTINF:-1,radioplay.se/retrofm
-https://live-bauerse-fm.sharp-stream.com/retrofm_aacp
-#EXTINF:-1,radioplay.se/rockklassiker
-https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp
-#EXTINF:-1,radioplay.se/rockklassikerhardrock
-https://live-bauerse-fm.sharp-stream.com/rockklassiker_hardrock_aacp
-#EXTINF:-1,radioplay.se/svensk-pop
-https://live-bauerse-fm.sharp-stream.com/svenskpop_se_aacp
-#EXTINF:-1,radioplay.se/vinylfm
-https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
-#EXTINF:-1, radioplay.se/radiotopp40
-https://live-bauerse-fm.sharp-stream.com/topp40_aac
-#EXTINF:-1,radioplay.se/nrj
+#EXTINF:-1,NRJ
 https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp
+#EXTINF:-1,Radio Active
+https://live-bauerse-fm.sharp-stream.com/radioactive_aac
+#EXTINF:-1,Retro FM
+https://live-bauerse-fm.sharp-stream.com/retrofm_aacp
+#EXTINF:-1,Rockklassiker
+https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp
+#EXTINF:-1,Rockklassiker Hårdrock
+https://live-bauerse-fm.sharp-stream.com/rockklassiker_hardrock_aacp
+#EXTINF:-1,Svensk Pop
+https://live-bauerse-fm.sharp-stream.com/svenskpop_se_aacp
+#EXTINF:-1, Topp40
+https://live-bauerse-fm.sharp-stream.com/topp40_aac
+#EXTINF:-1,Vinyl FM
+https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
